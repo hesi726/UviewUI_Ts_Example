@@ -1,21 +1,18 @@
 ## Project setup
 
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-npm run dev:mp-weixin
+yarn run serve
 ```
 
 ### Compiles and minifies for production
 
 ```
-npm run build:mp-weixin
+yarn run build
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
